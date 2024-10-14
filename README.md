@@ -3,7 +3,7 @@
 
 </div>
 <br>
-<div align="center" style="font-size: 24px; font-weight: bold;">
+<div align="center" style="font-size: 24 px; font-weight: bold;">
     Semana 1: Análisis de Caso
 </div>
 <br>
