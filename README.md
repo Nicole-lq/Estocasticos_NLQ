@@ -3,10 +3,6 @@
 
 </div>
 <br>
-<div align="center" style="font-size: 24px; font-weight: bold;">
-    Semana 1: Análisis de Caso
-</div>
-<br>
 
 <div align="center">
 <em>Por Nicole Lastra Quiroz - 13/10/2024</em>
