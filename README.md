@@ -3,7 +3,10 @@
 
 </div>
 <br>
-<div align="center" style="font-size: 24 px"> Semana 1: Análisis de Caso
+<div align="center"> 
+    <h1>
+    Semana 1: Análisis de Caso
+    </h1>
 </div>
 <br>
 
