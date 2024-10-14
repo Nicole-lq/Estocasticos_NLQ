@@ -7,12 +7,10 @@
     <h1>
     Semana 1: Análisis de Caso
     </h1>
+    <em>Por Nicole Lastra Quiroz - 13/10/2024</em>
 </div>
 <br>
-
-<div align="center">
-<em>Por Nicole Lastra Quiroz - 13/10/2024</em>
-</div>
+<br>
 
 ## Modelos determinísticos versus estocásticos
 
