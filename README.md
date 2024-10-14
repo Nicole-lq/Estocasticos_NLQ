@@ -10,7 +10,8 @@
 
 ## Modelos determinísticos versus estocásticos
 
-<div style="text-align: justify;"> Estos modelos se diferencian principalmente en la forma en que abordan la incertidumbre. Los <strong>modelos determinísticos</strong> proporcionan resultados precisos y predecibles, ya que utilizan variables fijas y conocidas, lo que los hace adecuados para sistemas con condiciones controladas. Por otro lado, los <strong>modelos estocásticos</strong> incorporan variabilidad e incertidumbre en los resultados, utilizando variables aleatorias y distribuciones de probabilidad. Esto les permite adaptarse a situaciones donde hay cambios y riesgos.<br><br>
+<div style="text-align: justify;">
+    Estos modelos se diferencian principalmente en la forma en que abordan la incertidumbre. Los <strong>modelos determinísticos</strong> proporcionan resultados precisos y predecibles, ya que utilizan variables fijas y conocidas, lo que los hace adecuados para sistemas con condiciones controladas. Por otro lado, los <strong>modelos estocásticos</strong> incorporan variabilidad e incertidumbre en los resultados, utilizando variables aleatorias y distribuciones de probabilidad. Esto les permite adaptarse a situaciones donde hay cambios y riesgos.<br><br>
     Para analizar otras diferencias de estos modelos, se presenta una tabla comparativa (<em><strong>Tabla 1</strong></em>), en donde se comparan aspectos como metodología, aplicaciones, ventajas y desventajas.
     </div>
     <br>
