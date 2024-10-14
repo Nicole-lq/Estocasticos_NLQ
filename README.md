@@ -56,10 +56,8 @@ Para analizar otras diferencias de estos modelos, se presenta una tabla comparat
 
 ## Incertidumbre y estrategias: Ejemplos de sistemas
 
-<div style="text-align: justify;">
+
 En la <em><strong>Tabla 2</strong> </em> se pueden encontrar 3 ejemplos de sistemas con incertidumbre, relacionados a la industria agrícola, minera y el mercado automotriz, con su respectiva estrategia para lidiar con la incertidumbre.
-    </div>
-    <br>
 
 <div align="center"> 
 <strong>Tabla 2: Sistemas con incertidumbre.</strong> <em>Confección propia.</em>
@@ -93,14 +91,10 @@ En la <em><strong>Tabla 2</strong> </em> se pueden encontrar 3 ejemplos de siste
     </tbody>
 </table>
 
-<div align="center">
-    </div>
 
 ## Metodologías para enfrentar la incertidumbre
 
-<div style="text-align: justify;">
 Algunas de las metodologías para enfrentar la incertidumbre son el análisis de sensibilidad, simulaciones de Monte Carlo, los modelos estocásticos y la teoría de juegos. Como los modelos estocásticos ya han sido abordados, en la <em><strong>Tabla 3</strong> </em> se presenta una breve descripción de los otros modelos mencionados.
-    </div>
 
 <div align="center">
 <strong>Tabla 3: Síntesis de metodologías para enfrentar la incertidumbre.</strong> <em>Confección propia.</em>
@@ -144,53 +138,37 @@ Algunas de las metodologías para enfrentar la incertidumbre son el análisis de
 
 ## Análisis de caso Mattel
 
-
-<div style="text-align: justify;">
-    Mattel, el mayor fabricante de juguetes del mundo, anunció que la retirada de más de 21 millones de juguetes debido a defectos de diseño y niveles potencialmente peligrosos de pintura con plomo en los productos hechos en China había impactado los beneficios y ventas. El fabricante de las muñecas Barbie y los juguetes Fisher-Price dijo que había sufrido una carga de alrededor de 40 millones a causa de temores por los productos de la compañía, envíos retrasados de juguetes y licencias de importación revocadas. <br><br>
+Mattel, el mayor fabricante de juguetes del mundo, anunció que la retirada de más de 21 millones de juguetes debido a defectos de diseño y niveles potencialmente peligrosos de pintura con plomo en los productos hechos en China había impactado los beneficios y ventas. El fabricante de las muñecas Barbie y los juguetes Fisher-Price dijo que había sufrido una carga de alrededor de 40 millones a causa de temores por los productos de la compañía, envíos retrasados de juguetes y licencias de importación revocadas. <br><br>
 Mattel, al igual que muchas otras empresas occidentales, se había trasladado a largo gran parte de su fabricación en el extranjero - una proporción significativa de la misma a China, el mayor exportador de juguetes del mundo. Mattel utiliza una serie de empresas de fabricación por contrato para producir una amplia gama de juguetes para niños incluyendo muñecas Barbie de moda y accesorios, juguetes Fisher-Price, productos de Barrio Sésamo, Winnie the Pooh y muchos otros. En 2007 las ventas mundiales de Mattel fueron más de 5 mil millones. La externalización de sus operaciones de fabricación a manos de empresas chinas le permitió disminuir fuertemente sus costos operativos, a cambio de una delegación del control una gran cantidad de actividades. Esto, debido a que los manufactureros chinos no ven con buenos ojos la inspección de sus materias primas y sus procesos productivos. <br><br>
 En agosto de 2007, un muestreo aleatorio de calidad de producto reveló que algunos de sus productos fabricados en China contenían niveles potencialmente peligrosos de plomo en la pintura. Además, se encontraron otros productos que contenían pequeños imanes que podrían ser tragados por niños pequeños sin darse cuenta. Si bien no se informó de casos reales de daño a los niños, el impacto de estos acontecimientos en la reputación de Mattel ha sido significativo. Parte del problema radica en la forma en que Mattel manejó la retirada de los productos del mercado. En primer lugar, sobre-reaccionaron a la cuestión de pintura con plomo retirando muchos juguetes que no necesariamente iban en contra de las regulaciones estadounidenses sobre el contenido de plomo en la pintura. En segundo lugar, la reacción inicial de Mattel fue culpar a los fabricantes chinos por estos problemas de fabricación, y posteriormente tener que reconocer que el problema con los imanes fue causado por el diseño de Mattel en lugar del fabricante.<br><br>
     En este sentido, los altos ejecutivos de Mattel tuvieron que dar explicaciones muchas veces sobre las causas de la falla en el diseño de los productos. Incluso el tema de la pintura quedo de lado, dado que el tema de los imanes fue mucho más serio para la población que un poco de plomo en la pintura. En una conferencia de prensa en Beijing el 21 de septiembre de 2007, Thomas Debrowski, uno de estos altos ejecutivos, dijo 'Mattel asume la plena responsabilidad por estos retiros y se disculpa a usted, el pueblo chino y todos nuestros clientes que recibieron los juguetes'. <br><br>
     La disculpa llegó demasiado tarde para Zhang Shuhong, el primer ejecutivo de Lida Plastic Toys Co. Ltd en la provincia de Guangdong, que se suicidó tras el despido de más de 2.500 empleados y la detención de la producción. Lida era un fabricante importante para Mattel cuyas fábricas se pensó inicialmente que habían sido el origen del problema de la pintura con plomo. Y finalmente el problema en este caso es que el origen del problema no era ni siquiera de esta empresa, sino que un segundo proveedor, es decir, la empresa que suministraba la pintura al fabricante. Esto pone de relieve los grandes riesgos que existen en la cadena de suministros cuando los proveedores no cumplen con los estándares internacionales.<br><br>
 El impacto en las ventas de Mattel se hizo sentir con mayor fuerza en su mayor mercado - Estados Unidos - donde las ventas de la icónica Barbie cayeron un 15%. El producto total recuerda costó Mattel alrededor de 110 millones en 2007, sin embargo, el impacto a largo plazo sobre la reputación corporativa de Mattel aún no se ha cuantificado (y quizás no es posible de cuantificar). Mientras que claramente hay cuestiones que rodean el proceso de diseño y control de calidad, el caso de Mattel pone de relieve los desafíos que enfrenta cualquier empresa donde se externalizan procesos clave del negocio. Mientras que en el pasado el riesgo para la reputación de una organización yacía sobre todo dentro de la empresa, y por lo tanto estaba bajo su control, ahora ese riesgo reside en una red de suministro extendida.
 
-</div>
-
 
 ### I. Fuentes de incertidumbre
 
-<div style="text-align: justify;">
 Las principales fuentes de incertidumbre identificadas en el caso de Mattel, que afectan la estabilidad y predictibilidad del sistema, se enuncian a continuación.
-     </div>
 
 #### 1. Calidad de los materiales y manejo de proveedores
 
-<div style="text-align: justify;">
-    Mattel ha enfrentado serios problemas con la calidad de los materiales utilizados, especialmente con la pintura de los juguetes, que contenía plomo. Esto no solo llevó a la retirada de productos, sino que también evidenció la falta de control sobre los proveedores secundarios y sus procesos de calidad. Esta situación genera una gran incertidumbre en la calidad de los productos terminados.
-    </div>
+Mattel ha enfrentado serios problemas con la calidad de los materiales utilizados, especialmente con la pintura de los juguetes, que contenía plomo. Esto no solo llevó a la retirada de productos, sino que también evidenció la falta de control sobre los proveedores secundarios y sus procesos de calidad. Esta situación genera una gran incertidumbre en la calidad de los productos terminados.
 
 #### 2. Cantidad planificada versus recibida
 
-<div style="text-align: justify;">
-    La externalización de la producción a fábricas en China introduce incertidumbre en la cantidad de productos que Mattel recibe en comparación con lo que se había planificado. Esta variabilidad puede afectar el inventario disponible para distribución y, en consecuencia, la capacidad de la empresa para satisfacer la demanda del mercado.
-    </div>
+La externalización de la producción a fábricas en China introduce incertidumbre en la cantidad de productos que Mattel recibe en comparación con lo que se había planificado. Esta variabilidad puede afectar el inventario disponible para distribución y, en consecuencia, la capacidad de la empresa para satisfacer la demanda del mercado.
 
 #### 3. Tiempo de respuesta de proveedores
 
-<div style="text-align: justify;">
-    Los retrasos en los tiempos de entrega de los proveedores pueden desestabilizar la cadena de suministro. La incertidumbre en los plazos de entrega afecta tanto la producción, dado que los materiales no llegan a tiempo, como la entrega a los clientes, generando insatisfacción y potencial pérdida de ventas.
-    </div>
+Los retrasos en los tiempos de entrega de los proveedores pueden desestabilizar la cadena de suministro. La incertidumbre en los plazos de entrega afecta tanto la producción, dado que los materiales no llegan a tiempo, como la entrega a los clientes, generando insatisfacción y potencial pérdida de ventas.
 
 #### 4. Fluctuación de la demanda
 
-<div style="text-align: justify;">
-    La demanda de juguetes puede variar considerablemente en función de las tendencias del mercado, eventos estacionales (como las festividades navideñas) y cambios en las preferencias del consumidor. Esta variabilidad genera incertidumbre en la planificación de la producción y el inventario, lo que puede resultar en excedentes o escasez de productos disponibles en el mercado.
-    </div>
+La demanda de juguetes puede variar considerablemente en función de las tendencias del mercado, eventos estacionales (como las festividades navideñas) y cambios en las preferencias del consumidor. Esta variabilidad genera incertidumbre en la planificación de la producción y el inventario, lo que puede resultar en excedentes o escasez de productos disponibles en el mercado.
 
 ### II. Presencia de incertidumbre
 
-<div style="text-align: justify;">
-    Para estudiar el caso de Mattel desde las 9 dimensiones y argumentar sobre la presencia de insertidumbre en sus procesos, se ha generado una matríz de análisis (<em><strong>Tabla 4</strong> </em>), siguiendo los lineamientos entregados por Maturana (2021) en su apunte <em>"Introducción a los Procesos Estocásticos"</em>.
-    </div> <br>
+Para estudiar el caso de Mattel desde las 9 dimensiones y argumentar sobre la presencia de insertidumbre en sus procesos, se ha generado una matríz de análisis (<em><strong>Tabla 4</strong> </em>), siguiendo los lineamientos entregados por Maturana (2021) en su apunte <em>"Introducción a los Procesos Estocásticos"</em>. <br>
 
 <div align="center">
 <strong>Tabla 4: Matriz de análisis de la incertidumbre en caso Mattel.</strong> <em>Confección propia.</em> 
@@ -238,9 +216,7 @@ Las principales fuentes de incertidumbre identificadas en el caso de Mattel, que
 
 ### III. Ausencia de incertidumbre
 
-<div style="text-align: justify;">
-    Los argumentos sobre la ausencia de incertidumbre en los procesos de Mattel, se presentan en una matriz de análisis (<em><strong>Tabla 5</strong> </em> ), siguiendo los mismos lineamientos del apartado anterior.
-    </div>
+Los argumentos sobre la ausencia de incertidumbre en los procesos de Mattel, se presentan en una matriz de análisis (<em><strong>Tabla 5</strong> </em> ), siguiendo los mismos lineamientos del apartado anterior.
     <br>
 
 <div align="center">
@@ -284,7 +260,6 @@ Las principales fuentes de incertidumbre identificadas en el caso de Mattel, que
         </tr>
     </tbody>
 </table>
-
 
 
 ## Referencias
